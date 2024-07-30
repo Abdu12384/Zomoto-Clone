@@ -593,7 +593,7 @@ p{
     
 }
 .footer-main{
-    width: 100%;
+    width:1100px;
     height: 400px;
     display: flex;
     flex-direction: column;
